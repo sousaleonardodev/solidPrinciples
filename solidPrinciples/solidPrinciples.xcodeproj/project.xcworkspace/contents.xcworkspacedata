@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../solidPrinciples/ArticlesAPI.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/CardAPI.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/FriendsAPI.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/FriendsCache.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/Helpers.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/ListViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/MainTabBarController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/NotImplementedViewControllers.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/SceneDelegate 2.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/SceneDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/SegmentNavigationViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/TransfersAPI.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/User.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../solidPrinciples/ViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "self:solidPrinciples.xcodeproj">
+   </FileRef>
+</Workspace>
